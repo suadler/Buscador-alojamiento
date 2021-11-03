@@ -26,5 +26,5 @@ _Lugares donde se encuentran los alojamientos_<br>
 2. Mendoza 🍷
 2. Iguazu 🏞️
 3. Calafate 🏔️ 
-4. Bariloche 🌄
+4. Bariloche :evergreen_tree:
 5. El Chalten 🥾 <br>
