@@ -6,8 +6,8 @@ _El objectivo de este programa es un buscador de todos tipos de alojamientos üè
 
 
 # Descripcion
-Cuando viajemos a veces nos cuesta mucho tiempo encontar un alojamiento adecuado para nosotros, buscamos en ciertas paginas web, comparando precios y categorias. <br>
-Para que nuestra busqueda sera lo mas facil y mas rapido posible tenemos en nuestra programa todos los tipos de alojamiento: <br>
+Cuando viajamos a veces nos cuesta mucho tiempo encontar un alojamiento adecuado para nosotros, buscamos en ciertas paginas web, comparando precios y categorias. <br>
+Para que nuestra busqueda sea lo mas facil y mas rapido posible tenemos en nuestra programa todos los tipos de alojamiento: <br>
 - Hoteles
 - Caba√±as
 - Hosterias
@@ -15,7 +15,7 @@ Para que nuestra busqueda sera lo mas facil y mas rapido posible tenemos en nues
 - Casas
 - Estancias <br>
 
-Otra punto importante por supuesto es la categoria del alojamiento, el programa contiene los seguientes: <br>
+Otro punto importante por supuesto es la categoria del alojamiento, el programa contiene los seguientes: <br>
 - Budget (1-2*)
 - Standard (3*)
 - Boutique (3+-4*)
